@@ -1,5 +1,7 @@
 # Iori
 
+`make` to build containers and run (`make up`/`docker-compose up`)
+
 ## TODO
 
 - [ ] diff configs for local and prod
